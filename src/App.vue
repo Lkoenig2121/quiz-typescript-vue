@@ -16,12 +16,11 @@
 }
 
 #app {
-  margin: 0px !important;
+  margin: 0;
+  padding: 0;
 }
 
 body { 
-  padding: 0 !important;
-  margin: 0 !important;
   font-family: 'Merriweather', serif;
   font-family: 'Mukta', sans-serif;
   font-family: 'Roboto Slab', serif;
